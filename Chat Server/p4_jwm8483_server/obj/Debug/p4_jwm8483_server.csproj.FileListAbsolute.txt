@@ -1,0 +1,9 @@
+e:\visual studio 2017\Projects\p4_jwm8483_server\p4_jwm8483_server\bin\Debug\p4_jwm8483_server.exe.config
+e:\visual studio 2017\Projects\p4_jwm8483_server\p4_jwm8483_server\bin\Debug\p4_jwm8483_server.exe
+e:\visual studio 2017\Projects\p4_jwm8483_server\p4_jwm8483_server\bin\Debug\p4_jwm8483_server.pdb
+e:\visual studio 2017\Projects\p4_jwm8483_server\p4_jwm8483_server\obj\Debug\p4_jwm8483_server.csprojResolveAssemblyReference.cache
+e:\visual studio 2017\Projects\p4_jwm8483_server\p4_jwm8483_server\obj\Debug\p4_jwm8483_server.Form1.resources
+e:\visual studio 2017\Projects\p4_jwm8483_server\p4_jwm8483_server\obj\Debug\p4_jwm8483_server.Properties.Resources.resources
+e:\visual studio 2017\Projects\p4_jwm8483_server\p4_jwm8483_server\obj\Debug\p4_jwm8483_server.csproj.GenerateResource.Cache
+e:\visual studio 2017\Projects\p4_jwm8483_server\p4_jwm8483_server\obj\Debug\p4_jwm8483_server.exe
+e:\visual studio 2017\Projects\p4_jwm8483_server\p4_jwm8483_server\obj\Debug\p4_jwm8483_server.pdb
